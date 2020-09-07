@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Restaurant</string>
+
+
+    //fb
+    <string name="FACEBOOK_APP_ID">1292280384255149</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">f94040dbbb4520d21a660cc388b9932d</string>
+
+    //Toast
+    <string name="login_cancelled">Connexion  annulé</string>
+    <string name="login_success">Connexion réussie</string>
+    <string name="Alredy_logged">Déjà connecté</string>
+    <string name="AccountKitError">Ne vous connectez pas ! Veuillez vous connecter</string>
+    <string name="PermissionDenied">Vous devez accepter cette permission pour utiliser notre application.</string>
+    <string name="title_alert_sign_up">Déconnexion</string>
+    <string name="msg_alert_sign_up">Voulez-vous vraiment vous déconnecter ?</string>
+    <string name="ok">Oui</string>
+    <string name="cancel">Annuler</string>
+    <string name="toast_date">Veuillez Sélectionner la Date</string>
+    <string name="toast_address">Veuillez choisir l\'adresse par défaut ou définir une nouvelle adresse</string>
+
+    //menu
+    <string name="search">Chercher</string>
+    <string name="action_contact_us">Contactez Nous</string>
+    <string name="my_profile">Mon Profil</string>
+    <string name="sign_out">Déconnexion</string>
+    <string name="nearby_restaurant">Restaurant à Proximité</string>
+    <string name="order_history">Historique des Commandes</string>
+
+    //button
+    <string name="btn_sign_in">Se connecter</string>
+    <string name="view_cart">Voir le panier</string>
+    <string name="btn_update">Mettre à jour</string>
+    <string name="cart_empty">Panier vide</string>
+    <string name="order">Validez la Commande</string>
+    <string name="btn_new_address">Add new address</string>
+    <string name="place_order">Passer commandes</string>
+    <string name="btn_Proceed">Proceed</string>
+    <string name="add_new_address">Ajouter nouvelle adresse</string>
+
+    editText
+    <string name="edt_name">Nom</string>
+    <string name="edt_address">Adresse</string>
+    <string name="Select_Date">Sélectionner une Date</string>
+    <string name="edt_payment">Paiement</string>
+
+    //textView
+    <string name="our_restaurant">Notre Restaurant</string>
+    <string name="userInformation">Vos Données Personnelles</string>
+    <string name="txt_category_menu">Les Catégories</string>
+    <string name="money_sign">$</string>
+    <string name="description">Description</string>
+    <string name="size">Taille</string>
+    <string name="discount">Remise :</string>
+    <string name="total_cost">Total</string>
+    <string name="cart">Panier</string>
+
+
+    //ButtonRadio
+    <string name="Cash_On_Deliver">Paiement à la livraison</string>
+    <string name="Online_Payment">Paiement en ligne</string>
+
+
+    <string name="your_order">Your Order</string>
+    <string name="Order_On">Order On</string>
+    <string name="Order_Number">Order Number: #</string>
+    <string name="Num_of_Item">Num of Item: </string>
+    <string name="OrderPlaced">Order Placed</string>
+    <string name="TransactionFailed">Transaction Failed</string>
+
+
+</resources>

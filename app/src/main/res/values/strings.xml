@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">My Restaurant</string>
+
+
+    //fb
+    <string name="FACEBOOK_APP_ID">1292280384255149</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">f94040dbbb4520d21a660cc388b9932d</string>
+
+    //Toast
+    <string name="msg_alert_sign_up">Do you really want sign out ?</string>
+    <string name="ok">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_alert_sign_up">Sign out</string>
+    <string name="login_cancelled">login Cancelled</string>
+    <string name="login_success">Login Success</string>
+    <string name="Alredy_logged">Alredy Logged</string>
+    <string name="AccountKitError">Not sign in ! Please sign in</string>
+    <string name="PermissionDenied">You must accept this permission to use our app</string>
+    <string name="toast_date">Please select Date</string>
+    <string name="toast_address">Please choose default Address or set new address</string>
+
+
+    //editText
+    <string name="edt_name">Name</string>
+    <string name="edt_address">Address</string>
+    <string name="edt_payment">Payment</string>
+    <string name="Select_Date">Select Date</string>
+
+
+    //textView
+    <string name="size">Size</string>
+    <string name="discount">Discount :</string>
+    <string name="money_sign">$</string>
+    <string name="description">Description</string>
+    <string name="txt_category_menu">Categories</string>
+    <string name="our_restaurant">Our Restaurant</string>
+    <string name="userInformation">User Information</string>
+    <string name="place_order">Place Order</string>
+    <string name="total_cost">Total :</string>
+    <string name="cart">Cart</string>
+
+
+    //RadioButton
+    <string name="Cash_On_Deliver">Cash On Delivery</string>
+    <string name="Online_Payment">Online Payment</string>
+
+
+    //button
+    <string name="view_cart">View Cart</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="btn_new_address">Add new address</string>
+    <string name="btn_Proceed">Proceed</string>
+    <string name="add_new_address">Add New Address</string>
+    <string name="cart_empty">Empty Cart</string>
+    <string name="order">Validate the Order</string>
+
+
+    //menu
+    <string name="my_profile">My Profile</string>
+    <string name="action_contact_us">Contact Us</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="nearby_restaurant">Nearby Restaurant</string>
+    <string name="order_history">Order History</string>
+    <string name="search">Search</string>
+    <string name="nav_favorite" translatable="false">Favorite</string>
+
+
+    //navigation drawer
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="title_activity_home" translatable="false">Home</string>
+    <string name="your_order">Your Order</string>
+    <string name="Order_On">Order On :</string>
+    <string name="Order_Number">Order Number: #</string>
+    <string name="Num_of_Item">Num of Item : </string>
+    <string name="OrderPlaced">Order Placed</string>
+    <string name="TransactionFailed">Transaction Failed</string>
+    <string name="title_activity_nearby_restaurant">Map</string>
+
+
+</resources>

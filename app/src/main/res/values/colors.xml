@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--  <color name="colorPrimary">#ef473a Af1f1f </color>   <color name="colorAccent">#ff7b65</color> -->
+    <color name="colorPrimary">#A80007</color>
+    <color name="colorPrimaryDark">#A80007</color>
+    <color name="colorAccent">#CE050E</color>
+    <color name="button_color">@color/colorPrimary</color>
+    <color name="divider">#f7f5f4</color>
+    <color name="colorPrice">#616161</color>
+  <color name="enabled_btn">#CACACA</color>
+</resources>
